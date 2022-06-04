@@ -1,0 +1,18 @@
+button{
+    padding:10px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid;
+    display:block;
+    position:relative;
+    margin: 200px 610px;
+    width: 200px;
+    text-align: center;
+    height: auto;
+  }
+  p{
+    text-align: center;
+    width: 200px;
+    margin: auto;
+  }
+ 
